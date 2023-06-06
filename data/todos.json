@@ -1,12 +1,12 @@
 {
   "tasks": [
     {
-      "id": 1,
-      "text": "Buy milk and oranges"
+      "id": "0a3e9d21-bdd3-426c-909d-4f097ad4cb38",
+      "text": "Get milk"
     },
     {
-      "id": 2,
-      "text": "Clean the garage"
+      "id": "7dbf0b25-eab9-44d6-b882-591ddd65cdf3",
+      "text": "Learn nextjs"
     }
   ]
 }
